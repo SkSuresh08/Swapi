@@ -1,0 +1,18 @@
+.App {
+  margin-top: 50px;
+  justify-content: center;
+  display: flex;
+  justify-content: center;
+}
+
+.data{
+  width: fit-content;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+.data h1{
+  text-align: center;
+}
+
